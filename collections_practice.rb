@@ -34,8 +34,9 @@ def find_a(arr)
 end
 
 def sum_array(arr)
-  arr.map {|x| x + a = a}
-  a
+  x = 0
+  arr.each do |num|
+    x += num
 end
 
 def add_s(arr)
