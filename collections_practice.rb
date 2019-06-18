@@ -35,6 +35,7 @@ end
 
 def sum_array(arr)
   arr.map {|x| x + a = a}
+  a
 end
 
 def add_s(arr)
