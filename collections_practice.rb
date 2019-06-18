@@ -30,7 +30,7 @@ end
 def find_a(arr)
   n = []
   arr.each do |word| 
-    n << word[0] == "a"
+    n << (word[0] == "a")
   end
   n
 end
