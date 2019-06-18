@@ -29,7 +29,7 @@ end
 
 def find_a(arr)
   arr.select do |word|
-    word
+    word[0] = 
 end
 
 def sum_array(arr)
