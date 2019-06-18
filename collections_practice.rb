@@ -34,7 +34,7 @@ def find_a(arr)
 end
 
 def sum_array(arr)
-  
+  arr.map {|x| x + a = a}
 end
 
 def add_s(arr)
