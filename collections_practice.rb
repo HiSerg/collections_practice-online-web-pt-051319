@@ -28,11 +28,7 @@ def kesha_maker(arr)
 end
 
 def find_a(arr)
-  n = []
-  arr.each do |word| 
-    n << (word[0] == "a")
-  end
-  n
+  arr.find 
 end
 
 def sum_array(arr)
