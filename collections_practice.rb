@@ -28,7 +28,7 @@ def kesha_maker(arr)
 end
 
 def find_a(arr)
-  arr.sellect
+  arr.select do 
 end
 
 def sum_array(arr)
